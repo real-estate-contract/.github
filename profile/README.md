@@ -6,15 +6,17 @@
 </div>
 <br/>
 
+
 | 원스톱 비대면 부동산 전자계약 시스템 🏡
 - 배포 URL : https://www.budong.kr/
-- ** 로그인이 안되시는 경우 로컬스토리지를 비우고 로그인해주세요. (이부분 수정중에 있습니다)
 - 한국인(임대인)
     - Test ID : test@gmail.com
     - Test PW : 0000
 - 외국인(임차인) 
     - Test ID : foreigner@gmail.com
     - Test PW : 0000
+- <span style="color:#8B0000;">**로그인이 안되시는 경우 ‼️‼️**</span>  :
+  로그인 문제가 발생하면 로컬 스토리지를 비운 후 다시 시도해주세요. 이 문제는 현재 수정 중에 있습니다.
 
 <br>
 
@@ -144,3 +146,6 @@
 
 
 <br>
+
+## 오류 보고 및 문의 사항 🐞
+서비스 사용 중 오류가 발생하거나 문의 사항이 있으시면 [여기로](https://github.com/real-estate-contract/.github) 이슈를 남겨주세요. 가능한 빨리 문제를 해결해 드리겠습니다.
